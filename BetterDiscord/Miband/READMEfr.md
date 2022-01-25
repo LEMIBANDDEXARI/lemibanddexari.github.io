@@ -8,3 +8,6 @@ Merci à CapnKitten pour son thème Spotify_Discord.
 
 #### v1.0 (15/05/2021)
 * Première version
+
+#### v1.0.1 (12/01/2022)
+* Mise à jour de class
